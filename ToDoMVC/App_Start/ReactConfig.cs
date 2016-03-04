@@ -23,6 +23,6 @@ namespace ToDoMVC
             ReactSiteConfiguration.Configuration
                 //	.SetLoadBabel(false)
                 .AddScriptWithoutTransform("~/Scripts/build/server.bundle.js");
-		}
+        }
 	}
 }
